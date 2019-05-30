@@ -21,3 +21,7 @@
 # OpenBazaar
 
 - STORE https://openbazaar.com/store/QmSX1LV96zh85hu35YhLed3hSuocPwwttAn6Qf5pohqb3E
+
+# Insane.exchange
+- LANA/BTC https://insane.exchange/Exchange/Trade?pair=LanaCoin/Bitcoin
+- LANA/INSN https://insane.exchange/Exchange/Trade?pair=LanaCoin/InsaneCoin 
