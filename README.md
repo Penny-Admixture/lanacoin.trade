@@ -25,3 +25,6 @@
 # Insane.exchange
 - LANA/BTC https://insane.exchange/Exchange/Trade?pair=LanaCoin/Bitcoin
 - LANA/INSN https://insane.exchange/Exchange/Trade?pair=LanaCoin/InsaneCoin 
+
+#BOA Exchange
+- LANA/BTC https://boaexchange.com/market/LANA_BTC
