@@ -2,19 +2,13 @@
 
 # Tokens.net 
 
-- LANA/BTC https://platform.tokens.net/trade/22/lanabtc
+- LANA/USDT 
 
-# NovaExchange.com
-- BTC/LANA https://novaexchange.com/market/BTC_LANA/
-- DOGE/LANA https://novaexchange.com/market/DOGE_LANA/
 
 # OpenBazaar
 
 - STORE https://openbazaar.com/store/QmSX1LV96zh85hu35YhLed3hSuocPwwttAn6Qf5pohqb3E
 
-# Insane.exchange
-- LANA/BTC https://insane.exchange/Exchange/Trade?pair=LanaCoin/Bitcoin
-- LANA/INSN https://insane.exchange/Exchange/Trade?pair=LanaCoin/InsaneCoin 
 
 # BOA Exchange
 - LANA/BTC https://boaexchange.com/market/LANA_BTC 
