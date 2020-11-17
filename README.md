@@ -2,17 +2,27 @@
 
 # Tokens.net 
 
-- LANA/USDT 
-
-
-# OpenBazaar
-
-- STORE https://openbazaar.com/store/QmSX1LV96zh85hu35YhLed3hSuocPwwttAn6Qf5pohqb3E
-
+- Partner link htttps://tkns.me/lana
 
 # BOA Exchange
-- LANA/BTC https://boaexchange.com/market/LANA_BTC 
+
 - Partner link www.boaexchange.club 
+
+# Bololex.com
+
+- http://bololex.lanacoin.com
+
+# FreiExchange.com
+
+- http://freiexchange.lanacoinc.om
+
+# Unnamed.exchange
+
+- http://unnamed.lanacoin.com
+
+# Erex.io
+
+- http://erex.lanacoin.com
 
 # Yobit.net (Warning: Lana wallet on Yobit is getting random maintenance without a valid reason so please be aware)
 
